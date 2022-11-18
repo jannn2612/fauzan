@@ -1,0 +1,92 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Alfa Slab One', cursive;
+font-family: 'Poor Story', cursive;
+    background-image: url('https://static.vecteezy.com/system/resources/thumbnails/003/062/867/small/forest-scenery-background-free-vector.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed; 
+    background-size: 100% 100%;
+}
+.container{
+    width: auto;
+    height: auto;
+    min-height: 100vh;
+    }
+
+    .wrapper {
+        justify-content: center;
+        display: flex;
+        flex-direction: row;    
+        flex-wrap: wrap;              
+        align-items: center;
+        height: 600px;
+    }
+.kembali{
+  
+}
+    .card{
+        width: 40%;
+        border: 2px solid firebrick;
+        background-color: bisque; 
+        padding: 20px;
+        margin: 25px;
+        box-shadow: 2px 2px 2px #00000080;
+    }
+
+.text-center{
+    text-align: center;
+}
+.btn {
+    margin-top: 16px;
+    padding: 8px;
+    cursor: pointer;
+    border: none;
+    width: 100%;
+}
+.btn:hover{
+    background-color: rebeccapurple;
+    
+}
+.gajah{width: 50px;
+    height: 50px;
+}
+.monkey{
+    width: 50px;
+    height: 50px;
+}
+.Paus{
+    width: 50px;
+    height: 50px;
+}
+.kucing{
+    width: 50px;
+    height: 50px;
+}
+.kalelawar{
+    width: 50px;
+    height: 50px;
+}
+.img1{
+    margin-top: 50px;
+}
+.gajah2{
+    width: 75px;
+    height: 75px;
+}
+.monyet1{
+    width: 75px;
+    height: 75px;
+}
+.paus1{
+    width: 75px;
+    height: 75px;
+}
+.kucing1{
+    width: 75px;
+    height: 75px;
+} 
+.kalelawar1{
+    width: 75px;
+    height: 75px;
+}
